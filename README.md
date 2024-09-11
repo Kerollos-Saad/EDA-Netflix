@@ -2,10 +2,10 @@
 
 # Libraries used:
 
-    *pandas
-    *numpy
-    *matplotlib
-    *seaborn
-    *missingno
-    *wordcloud
-    *collections
+    * pandas
+    * numpy
+    * matplotlib
+    * seaborn
+    * missingno
+    * wordcloud
+    * collections
